@@ -1,5 +1,6 @@
 # Terminology
 
+Rev 1.0 May 2024
 *Author: [Sarah Hanson](https://community.openenergymonitor.org/u/sarahh/summary)*
 
 ## Abbreviations
